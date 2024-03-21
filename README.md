@@ -1,2 +1,2 @@
-# myfirstProject
+# TestProject
 This is my first project. It is intended for robust learning.
